@@ -1,6 +1,6 @@
 # Phaser Game Template
 
-A very barebones Phaser 3 game template using Vite and React with TypeScript.
+A very simple Phaser 3 game template using Vite and React with TypeScript.
 
 ## Features
 
