@@ -4,7 +4,7 @@ A very simple Phaser 3 game template using Vite and React with TypeScript.
 
 ## Features
 
-- Multiple scenes included
+- Multiple scenes included (without any game logic and functionality)
 - TypeScript paths set to `@/*` for easier development
 - Robust eslint and prettier configuration
 - TailwindCSS
